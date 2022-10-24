@@ -12,7 +12,7 @@ body {
 .menu-item {
     color: #ffffff;
     font-size: clamp(3rem, 8vw, 8rem);
-    font-family: "Ibarra Real Nova", serif;
+    font-family: 'Oxygen', sans-serif;
 
     display: block;
     text-decoration: none;
@@ -77,7 +77,7 @@ body {
     background-position: 0% -100%;
 }
 
-#background-image {
+#menu-background-image {
     height: 100%;
     width: 100%;
     background-image: url("https://lh3.googleusercontent.com/FiIl1jh318M9J-SlpejNsD4wxcfTb15IkHIw3LlMVmRsZinmRXcf96cy0vWmNvrN4XPMAgSBxqGnEUXI1bURr4OyQ072BaqNcLua-K6r-k1Hbe5BzHQdI9YnIIBMYWMKiwpFWAigag=w2400");
